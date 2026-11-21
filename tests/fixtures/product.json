@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "mock-presentation",
+  "title": "从用户需求到产品价值",
+  "language": "zh-CN",
+  "audience": "产品与业务团队",
+  "source": "mock",
+  "theme": {
+    "id": "ink",
+    "name": "经典黑白",
+    "colors": {
+      "ink": "242930",
+      "paper": "F4F2EE",
+      "accent": "E4BC72",
+      "muted": "74767B"
+    },
+    "fonts": {
+      "heading": "Microsoft YaHei",
+      "body": "Microsoft YaHei"
+    },
+    "spacing": "comfortable"
+  },
+  "slides": [
+    {
+      "id": "slide-01",
+      "title": "从用户需求到产品价值",
+      "notes": "",
+      "layout": "cover",
+      "elements": [
+        {
+          "id": "element-1",
+          "type": "text",
+          "text": "梳理用户问题、产品方案、价值主张与下一步验证计划。"
+        }
+      ]
+    },
+    {
+      "id": "slide-02",
+      "title": "理解核心概念",
+      "notes": "",
+      "layout": "bullets",
+      "elements": [
+        {
+          "id": "element-2",
+          "type": "bullets",
+          "items": [
+            "明确本页的核心观点，解释它的意义，并提出一个可执行的下一步。",
+            "从受众真正关心的问题出发",
+            "先验证假设，再形成清晰结论"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "slide-03",
+      "title": "把想法连接到实践",
+      "notes": "",
+      "layout": "two-columns",
+      "elements": [
+        {
+          "id": "element-3",
+          "type": "columns",
+          "columns": [
+            {
+              "heading": "核心观点",
+              "items": [
+                "明确本页的核心观点，解释它的意义，并提出一个可执行的下一步。",
+                "把复杂问题拆成可理解的部分"
+              ]
+            },
+            {
+              "heading": "实践启发",
+              "items": [
+                "用小规模实验检验方向",
+                "记录反馈并持续调整"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "slide-04",
+      "title": "看见不同路径的取舍",
+      "notes": "",
+      "layout": "comparison",
+      "elements": [
+        {
+          "id": "element-4",
+          "type": "comparison",
+          "left": {
+            "heading": "直接推进",
+            "items": [
+              "明确本页的核心观点，解释它的意义，并提出一个可执行的下一步。",
+              "适合目标明确、信息充分的情况"
+            ]
+          },
+          "right": {
+            "heading": "先行探索",
+            "items": [
+              "先澄清未知条件和关键假设",
+              "适合仍需学习和验证的情况"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "slide-05",
+      "title": "用清晰步骤推动行动",
+      "notes": "",
+      "layout": "process",
+      "elements": [
+        {
+          "id": "element-5",
+          "type": "process",
+          "steps": [
+            {
+              "title": "理解问题",
+              "description": "明确本页的核心观点，解释它的意义，并提出一个可执行的下一步。"
+            },
+            {
+              "title": "探索方案",
+              "description": "比较可行方向，明确取舍"
+            },
+            {
+              "title": "验证行动",
+              "description": "开展实验，收集反馈，形成下一步"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "slide-06",
+      "title": "把观点汇成下一步行动",
+      "notes": "",
+      "layout": "summary",
+      "elements": [
+        {
+          "id": "element-6",
+          "type": "bullets",
+          "items": [
+            "明确本页的核心观点，解释它的意义，并提出一个可执行的下一步。",
+            "从受众真正关心的问题出发",
+            "先验证假设，再形成清晰结论"
+          ]
+        }
+      ]
+    }
+  ]
+}

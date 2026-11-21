@@ -40,4 +40,3 @@ React、TypeScript、Vite、Zod、Zustand、PptxGenJS。AI 负责语义内容，
 - 1.0.0 已提交审核，正式可用状态以平台为准。
 
 请勿提交 API key、PAT 或本地登录信息。
-

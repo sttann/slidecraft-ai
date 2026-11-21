@@ -1,0 +1,22 @@
+:root {
+  --color-bg: #f7f7f2;
+  --color-surface: #fffefa;
+  --color-soft: #eff2e9;
+  --color-ink: #203f32;
+  --color-text: #465746;
+  --color-muted: #87917d;
+  --color-border: #dfe4d7;
+  --color-accent: #bad797;
+  --color-danger: #a54935;
+  --radius-sm: 7px;
+  --radius-md: 13px;
+  --radius-lg: 18px;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --font-ui: Inter, 'Segoe UI', 'Microsoft YaHei', sans-serif;
+  --shadow-card: 0 4px 22px #223b3004;
+}

@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "id": "mock-presentation",
+  "title": "Learning through clear explanations",
+  "language": "en-US",
+  "audience": "Students",
+  "source": "mock",
+  "theme": {
+    "id": "ocean",
+    "name": "深海蓝",
+    "colors": {
+      "ink": "153F64",
+      "paper": "EDF4F8",
+      "accent": "8BDEEB",
+      "muted": "687E8A"
+    },
+    "fonts": {
+      "heading": "Microsoft YaHei",
+      "body": "Microsoft YaHei"
+    },
+    "spacing": "comfortable"
+  },
+  "slides": [
+    {
+      "id": "slide-01",
+      "title": "Learning through clear explanations",
+      "notes": "",
+      "layout": "cover",
+      "elements": [
+        {
+          "id": "element-1",
+          "type": "text",
+          "text": "Introduce a concept, compare approaches, and walk through a short learning activity."
+        }
+      ]
+    },
+    {
+      "id": "slide-02",
+      "title": "Start with common ground",
+      "notes": "",
+      "layout": "section",
+      "elements": [
+        {
+          "id": "element-2",
+          "type": "text",
+          "text": "Clarify the main idea, explain its purpose, and identify a useful next step."
+        }
+      ]
+    },
+    {
+      "id": "slide-03",
+      "title": "Understand the core idea",
+      "notes": "",
+      "layout": "bullets",
+      "elements": [
+        {
+          "id": "element-3",
+          "type": "bullets",
+          "items": [
+            "Clarify the main idea, explain its purpose, and identify a useful next step.",
+            "Start with what the audience needs",
+            "Test assumptions before drawing conclusions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "slide-04",
+      "title": "Connect ideas to practice",
+      "notes": "",
+      "layout": "two-columns",
+      "elements": [
+        {
+          "id": "element-4",
+          "type": "columns",
+          "columns": [
+            {
+              "heading": "The idea",
+              "items": [
+                "Clarify the main idea, explain its purpose, and identify a useful next step.",
+                "Break a complex problem into clear parts"
+              ]
+            },
+            {
+              "heading": "In practice",
+              "items": [
+                "Try a small, focused experiment",
+                "Review feedback and adapt"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "slide-05",
+      "title": "Compare the possible approaches",
+      "notes": "",
+      "layout": "comparison",
+      "elements": [
+        {
+          "id": "element-5",
+          "type": "comparison",
+          "left": {
+            "heading": "Direct approach",
+            "items": [
+              "Clarify the main idea, explain its purpose, and identify a useful next step.",
+              "Useful when the goal and context are clear"
+            ]
+          },
+          "right": {
+            "heading": "Explore first",
+            "items": [
+              "Clarify unknowns and key assumptions",
+              "Useful when more learning is needed"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "slide-06",
+      "title": "Move forward step by step",
+      "notes": "",
+      "layout": "process",
+      "elements": [
+        {
+          "id": "element-6",
+          "type": "process",
+          "steps": [
+            {
+              "title": "Understand",
+              "description": "Clarify the main idea, explain its purpose, and identify a useful next step."
+            },
+            {
+              "title": "Explore",
+              "description": "Compare options and make trade-offs"
+            },
+            {
+              "title": "Validate",
+              "description": "Test the idea and collect feedback"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "slide-07",
+      "title": "Recognize the boundaries",
+      "notes": "",
+      "layout": "bullets",
+      "elements": [
+        {
+          "id": "element-7",
+          "type": "bullets",
+          "items": [
+            "Clarify the main idea, explain its purpose, and identify a useful next step.",
+            "Start with what the audience needs",
+            "Test assumptions before drawing conclusions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "slide-08",
+      "title": "Start with common ground",
+      "notes": "",
+      "layout": "section",
+      "elements": [
+        {
+          "id": "element-8",
+          "type": "text",
+          "text": "Clarify the main idea, explain its purpose, and identify a useful next step."
+        }
+      ]
+    },
+    {
+      "id": "slide-09",
+      "title": "Understand the core idea",
+      "notes": "",
+      "layout": "bullets",
+      "elements": [
+        {
+          "id": "element-9",
+          "type": "bullets",
+          "items": [
+            "Clarify the main idea, explain its purpose, and identify a useful next step.",
+            "Start with what the audience needs",
+            "Test assumptions before drawing conclusions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "slide-10",
+      "title": "Bring the ideas together",
+      "notes": "",
+      "layout": "summary",
+      "elements": [
+        {
+          "id": "element-10",
+          "type": "bullets",
+          "items": [
+            "Clarify the main idea, explain its purpose, and identify a useful next step.",
+            "Start with what the audience needs",
+            "Test assumptions before drawing conclusions"
+          ]
+        }
+      ]
+    }
+  ]
+}

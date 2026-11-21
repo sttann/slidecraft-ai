@@ -1,0 +1,8 @@
+{
+  "slug": "slidecraft-ai",
+  "name": "SlideCraft AI",
+  "tagline": "Turn ideas into editable presentations",
+  "description": "输入主题，使用 Anna AI 生成可编辑大纲与内容；支持七种布局、三种主题、中英文、逐页编辑及原生可编辑 PowerPoint 下载。提供无需 AI 额度的示例流程。",
+  "category": "productivity",
+  "version": "1.0.0"
+}

@@ -1,0 +1,25 @@
+node_modules/
+bundle/
+dist/
+coverage/
+playwright-report/
+test-results/
+.env
+.env.*
+!.env.example
+.anna/
+.anna-app/
+credentials.json
+*.pem
+*.key
+*.p12
+*.tsbuildinfo
+artifacts/
+docs/anna/official-docs.txt
+
+# Local development notes and verification evidence
+docs/
+artifacts/
+DEVELOPMENT_*.md
+DELIVERY.md
+REQUIREMENTS.md
